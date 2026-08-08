@@ -1,6 +1,6 @@
 # SmartPortfolio AI 📈🤖
 > An AI-powered financial document analysis and portfolio insights dashboard built with React, ExpressJS, GraphQL, Python (FastAPI), and Hugging Face.
-
+# youtube link : https://www.youtube.com/watch?v=b1Z2Lbh6Kwo
 ---
 
 ## 🌟 Project Overview
